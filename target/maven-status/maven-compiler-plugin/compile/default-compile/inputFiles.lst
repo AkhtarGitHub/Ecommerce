@@ -1,0 +1,14 @@
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/model/User.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/model/Product.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/service/UserService.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/model/Admin.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/test/TestUserDAO.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/model/Buyer.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/model/Seller.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/test/TestProductDAO.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/App.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/service/ProductService.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/dao/ProductDAO.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/util/DBConnection.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/util/BCryptUtil.java
+/Users/babusimac/ecommerce-platform/src/main/java/com/ecommerce/dao/UserDAO.java
